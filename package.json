@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "name": "cronotividade_term",
+  "version": "1.0.0",
+  "description": "Cronômetro de atividade de usuário que utiliza a entrada de teclas via terminal (TUI) de forma a medir o tempo desde o início do cronômetro e o tempo desde a última atividade.",
+  "main": "index.mjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "author": "Diego Silva",
+  "license": "WTFPL"
+}
